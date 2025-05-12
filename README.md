@@ -6,3 +6,4 @@
 5) Create as classifier = HolyClassifier(main_path)
 6) start process as classifier.start()
 7) Get prediction with image as pred = classifier.model.predict_with_image(path_of_image) 
+INFO: I kept it simple. You can add lots of things
